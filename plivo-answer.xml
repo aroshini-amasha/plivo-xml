@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Speak>Hello, this is a test call from Plivo.</Speak>
+</Response>
